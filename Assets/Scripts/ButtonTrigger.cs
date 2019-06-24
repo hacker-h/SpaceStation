@@ -21,11 +21,10 @@ public class ButtonTrigger : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Button")
-        {
+    
             Transform t = Instantiate(boxPrefab);
 
             t.position = spawnPoint.position;
-        }
+        
     }
 }
