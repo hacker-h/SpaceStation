@@ -18,9 +18,8 @@ public class ChangeRotationSpeedTrigger : MonoBehaviour
     }
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Button")
-        {
+
             RotateSky.RotateSpeed = RotateSky.RotateSpeed + speedIncrease;
-        }
+
     }
 }
