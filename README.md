@@ -3,7 +3,7 @@
 > Immersive VR Space experience
 
 ## Run
-To run the Project simply clone the Repository and execute the build inside the release folder.
+To run the Project simply clone the Repository and execute the build inside the release folder, or open it in Unity.
 
 
 ## Description
@@ -23,4 +23,4 @@ You can control the speed of the SpaceShip using buttons that are located on the
 
 ## License
 
-MIT © [Julian Beck](https://github.com/jufabeck2202)
+MIT © 
